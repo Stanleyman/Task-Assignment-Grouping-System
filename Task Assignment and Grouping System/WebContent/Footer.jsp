@@ -17,8 +17,7 @@
 			<TR align="center">
 				<TD
 					style="FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana; FONT-VARIANT: normal"
-					bgColor=#cccccc height=1>Copyright © 2011
-					cognizant-tags.com. All Rights Reserved</TD>
+					bgColor=#cccccc height=1></TD>
 			</TR>
 		</TBODY>
 	</TABLE>
