@@ -10,7 +10,7 @@
 	
 		<table>
 			<tr>
-				<td><img src="cognizant-logo.jpg" width="120"></td>
+				<td><img src="" width="120"></td>
 				<td>
 					<table width=838 border="0">
 						<tr>
