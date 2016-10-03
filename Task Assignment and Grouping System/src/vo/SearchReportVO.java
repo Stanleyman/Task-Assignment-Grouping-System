@@ -1,5 +1,6 @@
 package vo;
 
+//Function to implement the VO object for Search related data
 public class SearchReportVO {
 private int groupId;
 private int taskId;
