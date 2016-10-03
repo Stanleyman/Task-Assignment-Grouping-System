@@ -1,5 +1,5 @@
 package vo;
-
+//Function to implement the Value Object for Assigning Owner 
 public class AssignOwnerVO {
 private String employeeName=null;
 private int employeeId=0;
