@@ -1,5 +1,6 @@
 package vo;
 
+//Function to implement the VO object for task update related data
 public class TaskUpdateVO {
 private String taskUpdates;
 private int taskId;
