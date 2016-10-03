@@ -1,5 +1,5 @@
 package vo;
-
+//Function to implement VO object for Assiging Task
 public class AssignTaskVO {
 	private int groupId;
 	private int employeeId;
