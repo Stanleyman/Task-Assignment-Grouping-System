@@ -1,5 +1,6 @@
 package vo;
 
+//Function to implement the VO object for the Grade details
 public class GradeVO {
 private int gradeId;
 private String gradeName;
