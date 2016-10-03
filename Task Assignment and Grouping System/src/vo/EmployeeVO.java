@@ -1,5 +1,6 @@
 package vo;
 
+//Function to implement the VO object for Employee details
 public class EmployeeVO {
 private String employeeId=null;
 private String employeeName=null;
